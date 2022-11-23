@@ -1,7 +1,7 @@
 {
-	"ip":"DiscoverCraftS2.aternos.me",
-	"port": "36987",
-	"name": "ARSOkontol",
+	"ip":"DiscoverCraft.aternos.me",
+	"port": "23493",
+	"name": "arsobot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
