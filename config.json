@@ -1,7 +1,7 @@
 {
-	"ip":"DiscoverCraft.aternos.me",
-	"port": "23493",
-	"name": "arsobot",
+	"ip":"network12.cpancloud.site",
+	"port": "19140",
+	"name": "arsoBOT",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
